@@ -257,7 +257,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume h1 span {
    border-bottom: 3px solid #11ABB0;
-   padding-bottom: 6px;
+   padding-bottom: 0px;
 }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
@@ -602,6 +602,11 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 3px;
    color: #fff;
 }
+
+.second_job {
+  padding-top: 34px;
+}
+
 #call-to-action h1 span { display: none; }
 #call-to-action .header-col h1:before {
    font-family: 'FontAwesome';
