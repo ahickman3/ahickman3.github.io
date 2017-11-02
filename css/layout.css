@@ -341,7 +341,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: security 2s ease;
 }
 .programming {
-  	width: 60%;
+  	width: 65%;
   	-moz-animation: programming 2s ease;
   	-webkit-animation: programming 2s ease;
 }
@@ -371,7 +371,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes programming {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 65%;  }
 }
 @-moz-keyframes webdev {
   0%   { width: 0px;  }
@@ -396,7 +396,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes programming {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 65%;  }
 }
 @-webkit-keyframes webdev {
   0%   { width: 0px;  }
