@@ -335,13 +335,13 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
-.security {
-  	width: 40%;
-  	-moz-animation: security 2s ease;
-  	-webkit-animation: security 2s ease;
+.netdesign {
+  	width: 60%;
+  	-moz-animation: netdesign 2s ease;
+  	-webkit-animation: netdesign 2s ease;
 }
 .programming {
-  	width: 65%;
+  	width: 55%;
   	-moz-animation: programming 2s ease;
   	-webkit-animation: programming 2s ease;
 }
@@ -365,13 +365,13 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 70%;  }
 }
-@-moz-keyframes security {
+@-moz-keyframes netdesign {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes programming {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 55%;  }
 }
 @-moz-keyframes webdev {
   0%   { width: 0px;  }
@@ -390,13 +390,13 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 70%;  }
 }
-@-webkit-keyframes security {
+@-webkit-keyframes netdesign {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes programming {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 55%;  }
 }
 @-webkit-keyframes webdev {
   0%   { width: 0px;  }
